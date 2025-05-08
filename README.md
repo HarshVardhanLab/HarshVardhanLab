@@ -76,8 +76,6 @@
   <!-- Bottom Row -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanlab&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400" style="width: 100%;" alt="Top Languages"/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=harshvardhanlab&theme=radical&margin-w=5&row=2&column=3&no-frame=true" style="width: 100%;" alt="Trophies"/>
-
 </div>
 
 <!-- Full Width Activity Graph -->
