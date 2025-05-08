@@ -66,21 +66,23 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%; max-width: 900px; margin: 0 auto;">
-
-  <!-- Top Row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanlab&show_icons=true&theme=radical&hide_title=true&hide_border=true&card_width=400" style="width: 100%;" alt="Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlab&theme=radical&hide_border=true" style="width: 100%;" alt="Streak"/>
-
-  <!-- Bottom Row -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanlab&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400" style="width: 100%;" alt="Top Languages"/>
-  
+<!-- Activity Graph (Full Width) -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvardhanlab&theme=react-dark&hide_border=true&area=true&height=350&width=1200" alt="Activity Graph" style="width: 100%; max-width: 1200px;"/>
 </div>
 
-<!-- Full Width Activity Graph -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvardhanlab&theme=react-dark&hide_border=true&area=true&height=250" style="width: 90%; max-width: 900px;" alt="Activity Graph"/>
+<!-- Stats Cards Grid -->
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(300px, 1fr)); gap: 15px; width: 100%; max-width: 1200px; margin: 0 auto;">
+
+  <!-- Row 1 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanlab&show_icons=true&theme=radical&hide_title=false&hide_border=true&include_all_commits=true&count_private=true&line_height=25" style="width: 100%; height: 220px;" alt="Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanlab&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="width: 100%; height: 220px;" alt="Streak"/>
+
+  <!-- Row 2 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanlab&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" style="width: 100%; height: 220px;" alt="Top Languages"/>
+  
+
 </div>
 
 ### 🛠️ Tech Stack
