@@ -36,8 +36,7 @@
 - 🏹 Open Source Contributor & Tech Community Builder
 
 ---
-
-### 🚀 Featured Projects
+### 🚀 Featured Initiatives
 
 <table>
   <tr>
@@ -47,17 +46,21 @@
         <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/ai-os-demo.gif?raw=true" width="100%" alt="AI OS Demo"/>
       </a>
       <p>Custom-built OS with neural network integration and security modules</p>
-      <img src="https://img.shields.io/github/stars/harshvardhanlab/ai-os?style=flat" alt="Stars">
-      <img src="https://img.shields.io/github/forks/harshvardhanlab/ai-os?style=flat" alt="Forks">
+      <a href="https://github.com/harshvardhanlab/ai-os/stargazers">
+        <img src="https://img.shields.io/github/stars/harshvardhanlab/ai-os?style=flat" alt="Stars">
+      </a>
+      <a href="https://github.com/harshvardhanlab/ai-os/network/members">
+        <img src="https://img.shields.io/github/forks/harshvardhanlab/ai-os?style=flat" alt="Forks">
+      </a>
     </td>
     <td width="50%" align="center">
-      <h3>🛡️ Hack Gear 1.0</h3>
-      <a href="https://github.com/harshvardhanlab/hack-gear" target="_blank">
-        <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/hackgear-demo.gif?raw=true" width="100%" alt="Hack Gear Demo"/>
-      </a>
-      <p>Comprehensive ethical hacking toolkit for penetration testing</p>
-      <img src="https://img.shields.io/github/stars/harshvardhanlab/hack-gear?style=flat" alt="Stars">
-      <img src="https://img.shields.io/github/forks/harshvardhanlab/hack-gear?style=flat" alt="Forks">
+      <h3>🏆 Hack Gear 1.0</h3>
+      <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/hackathon-banner.png?raw=true" width="100%" alt="Hack Gear Hackathon"/>
+      <p>Organized cybersecurity hackathon on May 3rd with 50+ participants</p>
+      <div style="display: flex; gap: 10px; justify-content: center;">
+        <img src="https://img.shields.io/badge/Event-Hackathon-blueviolet" alt="Hackathon">
+        <img src="https://img.shields.io/badge/Participants-50+-brightgreen" alt="Participants">
+      </div>
     </td>
   </tr>
 </table>
