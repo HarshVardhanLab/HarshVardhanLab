@@ -27,7 +27,7 @@
 
 ---
 
-### 🌟 Professional Profile
+### 🌟HarshVardhan's Profile
 - 🏢 **Co-Founder** at [Nova Coders](https://github.com/Nova-Coders) | **Tech Team Head**
 - 🎓 Computer Science Undergrad | Self-Motivated Learner
 - 🐍 **Python & Web Development** Specialist
