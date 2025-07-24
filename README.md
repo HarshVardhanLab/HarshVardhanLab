@@ -40,7 +40,7 @@
     <td width="50%" align="center">
       <h3>🧠 AI-Powered OS</h3>
       <a href="https://github.com/harshvardhanlab/ai-os" target="_blank">
-        <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/ai-os-demo.gif?raw=true" width="100%" alt="AI OS Demo"/>
+        <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/Ai-os.jpeg?raw=true" width="100%" alt="AI OS Demo"/>
       </a>
       <p>Custom-built OS with neural network integration and security modules</p>
       <a href="https://github.com/harshvardhanlab/ai-os/stargazers">
@@ -52,7 +52,7 @@
     </td>
     <td width="50%" align="center">
       <h3>🏆 Hack Gear 1.0</h3>
-      <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/hackathon-banner.png?raw=true" width="100%" alt="Hack Gear Hackathon"/>
+      <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/hackgear.jpeg?raw=true" width="100%" alt="Hack Gear Hackathon"/>
       <p>Organized cybersecurity hackathon on May 3rd with 50+ participants</p>
       <div style="display: flex; gap: 10px; justify-content: center;">
         <img src="https://img.shields.io/badge/Event-Hackathon-blueviolet" alt="Hackathon">
