@@ -44,10 +44,10 @@
       </a>
       <p>Custom-built OS with neural network integration and security modules</p>
       <a href="https://github.com/harshvardhanlab/ai-os/stargazers">
-        <img src="https://img.shields.io/github/stars/harshvardhanlab/ai-os?style=flat" alt="Stars">
+        <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/Ai-os.jpeg?raw=true" width="100%" alt="AI OS Demo"/>
       </a>
       <a href="https://github.com/harshvardhanlab/ai-os/network/members">
-        <img src="https://img.shields.io/github/forks/harshvardhanlab/ai-os?style=flat" alt="Forks">
+        <img src="https://github.com/harshvardhanlab/harshvardhanlab/blob/main/assets/Ai-os.jpeg?raw=true" width="100%" alt="AI OS Demo"/>
       </a>
     </td>
     <td width="50%" align="center">
